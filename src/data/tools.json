@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24",
+  "lastUpdated": "2026-07-25",
   "tools": [
     {
       "id": "chatgpt",
@@ -15,7 +15,7 @@
       "name": "Claude",
       "category": "writing",
       "price": "freemium",
-      "description": "Anthropic 出品的对话 AI，Claude Sonnet 5 支持 100 万 token 超长上下文，擅长长文本理解、写作、代码生成与深度研究，以安全与可控著称。",
+      "description": "Anthropic 出品的对话 AI，Claude Sonnet 5 支持 100 万 token 超长上下文，Opus 5 性能逼近旗舰 Fable 5 但 API 价格减半，擅长长文本理解、写作、代码生成与深度研究，以安全与可控著称。",
       "url": "https://claude.ai",
       "tags": ["对话", "写作", "Anthropic"]
     },
@@ -377,6 +377,28 @@
       "tags": ["绘图", "图像生成", "字节", "设计", "国内"],
       "features": ["复杂信息图与 UI 一键生成", "交互式精准编辑（点选/圈选/图层分离）", "原生多语种文字渲染", "真实人像与商品质感", "4K 级商业图像输出"],
       "addedDate": "2026-07-24"
+    },
+    {
+      "id": "vivago-r1",
+      "name": "vivago R1",
+      "category": "video",
+      "price": "freemium",
+      "description": "智象未来推出的无限时长多模态创作智能体，基于 HD-AgentOS 多智能体协同调度，支持文生图、图生图、文生视频、图生视频，R1 版本实现任意时长连贯视频生成，内容可用成功率 85%，可交付商业级短剧与宣传片。",
+      "url": "https://vivago.ai",
+      "tags": ["视频", "图像", "智象未来", "多模态", "国内"],
+      "features": ["无限时长视频连贯生成", "多智能体协同调度", "文/图生视频与图像", "4K 高清输出", "内容可用成功率 85%", "短剧与商业宣传片制作"],
+      "addedDate": "2026-07-25"
+    },
+    {
+      "id": "vocalvia",
+      "name": "VocalVia",
+      "category": "audio",
+      "price": "freemium",
+      "description": "AI 文档转播客工具，可将 PDF、文章、笔记转换为结构化多角色播客脚本，支持双主持人对话、可编辑大纲与情感标签控制，编辑后再生成音频导出 MP3/WAV。",
+      "url": "https://vocalvia.com",
+      "tags": ["播客", "语音", "音频", "TTS", "文档"],
+      "features": ["文档/文章转播客脚本", "多角色双主持人对话", "可编辑大纲与脚本", "语音库预览与选择", "情感与节奏标签控制", "MP3/WAV 音频导出"],
+      "addedDate": "2026-07-25"
     }
   ]
 }
