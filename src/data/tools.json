@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25",
+  "lastUpdated": "2026-07-26",
   "tools": [
     {
       "id": "chatgpt",
@@ -399,6 +399,28 @@
       "tags": ["播客", "语音", "音频", "TTS", "文档"],
       "features": ["文档/文章转播客脚本", "多角色双主持人对话", "可编辑大纲与脚本", "语音库预览与选择", "情感与节奏标签控制", "MP3/WAV 音频导出"],
       "addedDate": "2026-07-25"
+    },
+    {
+      "id": "hyra-1-0",
+      "name": "Hyra 1.0",
+      "category": "productivity",
+      "price": "free",
+      "description": "腾讯混元推出的科学发现智能体（Hunyuan Research Agent）首个版本，能够递归自我改进，专为性能导向的研究与工程任务打造。采用轻量 Harness 框架与生产者-消费者异步流水线，在 AI 研发、数学、天文、药物、量子等场景持续探索更优方案，开源结果已发布于 GitHub。",
+      "url": "https://hy.tencent.com/research/hyra",
+      "tags": ["科研", "智能体", "腾讯", "开源", "研究"],
+      "features": ["递归自我改进研究循环", "AI 研发/数学/天文/药物/量子多场景覆盖", "双层评估器共进化抑制 reward hacking", "开源透明可复现", "真实 AI 研发流水线中持续进化"],
+      "addedDate": "2026-07-26"
+    },
+    {
+      "id": "nativ",
+      "name": "Nativ",
+      "category": "code",
+      "price": "free",
+      "description": "Blaizzy 推出的原生 macOS 本地 AI 应用，可在 Apple 芯片 Mac 上本地运行 AI 模型，集聊天、服务、监控与模型连接于一体。内置 mlx-vlm 服务器，自动发现 Hugging Face 缓存中的模型，并原生集成 Codex、Claude Code、Pi、Hermes、OpenCode 五大编程智能体，对外暴露 OpenAI/Anthropic 兼容本地 API。MIT 开源。",
+      "url": "https://github.com/Blaizzy/nativ",
+      "tags": ["本地", "开源", "macOS", "MLX", "编程"],
+      "features": ["Apple 芯片本地运行 MLX 模型", "聊天/服务/监控一体", "原生集成五大编程智能体", "OpenAI/Anthropic 兼容本地 API", "Hugging Face 缓存自动发现", "MIT 开源免费"],
+      "addedDate": "2026-07-26"
     }
   ]
 }
