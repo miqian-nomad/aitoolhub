@@ -421,6 +421,39 @@
       "tags": ["本地", "开源", "macOS", "MLX", "编程"],
       "features": ["Apple 芯片本地运行 MLX 模型", "聊天/服务/监控一体", "原生集成五大编程智能体", "OpenAI/Anthropic 兼容本地 API", "Hugging Face 缓存自动发现", "MIT 开源免费"],
       "addedDate": "2026-07-26"
+    },
+    {
+      "id": "miora",
+      "name": "Miora 妙境",
+      "category": "design",
+      "price": "freemium",
+      "description": "腾讯设计团队推出的 AI 原生创意智能体工作室（妙境 Tencent Design Miora），从一份需求 Brief 直达可交付成品，覆盖图片、品牌全案、视频、3D、UI 全链路。具备 Agent Memory 记忆系统、多专家智能体协同与一体化无限画布，2026 年 7 月国际版全量上线，新用户赠 1000 积分。",
+      "url": "https://miora.design",
+      "tags": ["设计", "创意", "智能体", "腾讯", "多模态"],
+      "features": ["从 Brief 到成品全链路交付", "Agent Memory 记忆用户审美与品牌规范", "多专家智能体协同（生图/视频/3D/UI）", "一体化无限画布与局部框选编辑", "Skills 工作流沉淀与复用", "新用户赠 1000 积分"],
+      "addedDate": "2026-07-26"
+    },
+    {
+      "id": "sensenova-u1-pro",
+      "name": "SenseNova U1 Pro",
+      "category": "image",
+      "price": "freemium",
+      "description": "商汤科技发布的旗舰级多模态智能体基座，定位“交付级”原生多模态创作，从单点生成迈向可闭环完成复杂长程任务。在视觉创作上具备专业设计美感，支持最高 8K 原生输出与极高信息密度下的精准图文渲染，7 月 WAIC 亮相。",
+      "url": "https://www.sensenova.cn/u1-pro",
+      "tags": ["图像", "多模态", "商汤", "设计", "8K"],
+      "features": ["交付级复杂图片创作", "原生 8K 超清输出", "极高信息密度图文渲染", "长程任务系统级交付", "专业设计美感与排版", "多场景视觉内容覆盖"],
+      "addedDate": "2026-07-26"
+    },
+    {
+      "id": "flux-3",
+      "name": "FLUX 3",
+      "category": "image",
+      "price": "freemium",
+      "description": "Black Forest Labs 推出的统一多模态基础模型，在单一架构下联合学习图像、视频与音频，可文本/参考图生成图像与带原生音频的视频（单次最长 20 秒），并延伸至机器人动作预测。FLUX 3 Video 已开放 Early Access。",
+      "url": "https://bfl.ai/blog/flux-3",
+      "tags": ["图像", "视频", "多模态", "Black Forest Labs", "生成"],
+      "features": ["统一图像/视频/音频生成", "视频原生音频生成（最长 20 秒）", "文生图与复杂提示词渲染", "多语种文字精准生成", "Agentic 长视频串联", "开放权重（FLUX 3 Dev）规划中"],
+      "addedDate": "2026-07-26"
     }
   ]
 }
