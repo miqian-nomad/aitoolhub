@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03",
+  "lastUpdated": "2026-08-04",
   "tools": [
     {
       "id": "chatgpt",
@@ -476,6 +476,28 @@
       "tags": ["视频", "字节", "多模态参考", "国内", "生成"],
       "features": ["单次 30 秒长叙事视频生成", "多轮延长保持人物/场景连贯", "最高 30 图/10 视频/10 音频多模态参考", "强化镜头衔接与运动画质", "减少字幕/背景音等常见伪影", "已接入即梦 AI 与豆包专业版"],
       "addedDate": "2026-08-03"
+    },
+    {
+      "id": "qwenwork",
+      "name": "千问办公",
+      "category": "productivity",
+      "price": "freemium",
+      "description": "阿里巴巴于 2026-08-03 开启公测的企业级 AI 办公 Agent（QwenWork），由 QoderWork、MuleRun、悟空三款产品整合而来，业内首款同时支持桌面端、云端与企业协同 Agent 的产品。搭载最新旗舰模型 Qwen3.8，可直接交付可编辑的 PPTX/Word/Excel/HTML 产物，已打通钉钉 IM 25 项企业协作能力。",
+      "url": "https://qwenwork.cn",
+      "tags": ["办公", "智能体", "阿里", "钉钉", "国内"],
+      "features": ["桌面端/云端/企业协同三类 Agent", "输出可编辑 PPTX/Word/Excel/HTML", "打通钉钉 IM 25 项企业协作能力", "全栈网页生成与免部署在线交付", "多模态图音视频理解与创作", "技能市场与岗位专家套件"],
+      "addedDate": "2026-08-04"
+    },
+    {
+      "id": "mathgpt-ai",
+      "name": "MathGPT.ai",
+      "category": "productivity",
+      "price": "freemium",
+      "description": "面向高等教育的教师主导型 AI 数学学习与辅导平台，提供防作弊的苏格拉底式 24/7 AI 家教与 AI 作业管理器，支持 OpenStax 等主流教材。2026 年 8 月新增手写作业分步评分器，可自动批改纸质手写解答并按四因素标准给出部分分数。",
+      "url": "https://www.mathgpt.ai",
+      "tags": ["教育", "数学", "AI 家教", "作业批改"],
+      "features": ["防作弊苏格拉底式 AI 家教", "AI 作业管理器与 LMS 集成", "手写作业分步评分器（部分给分）", "四因素评分标准可自定义权重", "支持 OpenStax 等主流教材", "低成本与免费方案可选"],
+      "addedDate": "2026-08-04"
     }
   ]
 }
