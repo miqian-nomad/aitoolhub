@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07",
+  "lastUpdated": "2026-08-08",
   "tools": [
     {
       "id": "chatgpt",
@@ -520,6 +520,28 @@
       "tags": ["视频编辑", "开源", "实时", "京东"],
       "features": ["实时流式编辑，边播边改", "720P 下端到端约 30 FPS", "任意时长无漂移稳定输出", "自然语言驱动的开放式编辑指令", "支持局部改动/背景替换/风格迁移/参考图引导", "Apache 2.0 开源，权重已上 Hugging Face"],
       "addedDate": "2026-08-07"
+    },
+    {
+      "id": "genoffice",
+      "name": "GenOffice",
+      "category": "productivity",
+      "price": "free",
+      "description": "Genspark 于 2026-08-03 发布的全功能开源 AI 办公套件，面向 Windows 与 Mac 的本地客户端。支持 Word、Excel、PowerPoint、PDF 的创建编辑与审阅，AI 能力直接嵌入文档场景：一句话起草文稿、自动生成 PPT 叙事线、用自然语言写公式做数据分析、高亮 PDF 任意段落即时提问。完全免费、无广告、无水印，代码开源在 GitHub。",
+      "url": "https://www.genspark.ai/genoffice",
+      "tags": ["办公", "开源", "免费", "Genspark", "文档"],
+      "features": ["Word/Excel/PPT/PDF 全格式编辑", "AI 起草、续写与改写文档", "描述主题自动生成整套 PPT", "自然语言驱动表格分析与公式生成", "PDF 长文高亮即问", "完全免费无广告，GitHub 开源"],
+      "addedDate": "2026-08-08"
+    },
+    {
+      "id": "meituhub",
+      "name": "MeituHub",
+      "category": "design",
+      "price": "freemium",
+      "description": "美图公司于 2026-08-05 上线的企业级 AI 影像生产线平台，把美图全栈影像能力封装成可编排的工作流。用自然语言描述需求，AI Agent 自动理解意图、规划所需影像能力并在可视化画布中完成流程编排，一键生成可独立运行的 Web 应用。单次运行可批量产出成百上千张成品，适合电商上新、门店宣传、物料投放等高强度创作场景。",
+      "url": "https://meituhub.cn",
+      "tags": ["设计", "影像", "工作流", "美图", "企业级", "国内"],
+      "features": ["自然语言搭建影像工作流", "可视化画布编排与手动拖拽调整", "一键生成可复用 Web 应用", "单次运行批量产出上千张物料", "内置专家沉淀的生产线模板", "支持 API/CLI/AI Agent 嵌入企业系统"],
+      "addedDate": "2026-08-08"
     }
   ]
 }
