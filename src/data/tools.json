@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09",
+  "lastUpdated": "2026-08-13",
   "tools": [
     {
       "id": "chatgpt",
@@ -564,6 +564,39 @@
       "tags": ["编程", "智能体框架", "开源", "英伟达", "Python"],
       "features": ["一个智能体 = 一个 Python 类", "docstring 即提示词、类型标注即契约", "... 方法体交给 LLM 实现，普通方法体保持确定性", "模型无关，LiteLLM 路由 Claude/GPT/Ollama/vLLM", "默认开启调用链 tracing 与可视化查看器", "AST 校验与模块黑名单的沙箱防护"],
       "addedDate": "2026-08-09"
+    },
+    {
+      "id": "imagine-image-2",
+      "name": "Imagine Image 2.0",
+      "category": "image",
+      "price": "freemium",
+      "description": "xAI 于 2026 年 8 月推出的图像生成与编辑模型，作为 Grok 的 Quality Mode 上线 grok.com/imagine。支持魔法棒区域编辑、智能分割、背景移除、最多 5 张参考图的多参考编辑、智能改尺寸，以及头像/商品/游戏资产等预设模板；xAI 称其在文生图与图像编辑 Arena 榜单排名全球第二。",
+      "url": "https://grok.com/imagine",
+      "tags": ["图像", "编辑", "xAI", "Grok", "多参考"],
+      "features": ["魔法棒区域精准编辑", "智能分割与背景移除", "最多 5 张参考图的多参考编辑", "智能改尺寸适配任意比例", "头像/商品/游戏资产预设模板", "文生图与图像编辑 Arena 全球第二"],
+      "addedDate": "2026-08-13"
+    },
+    {
+      "id": "muse-glimmer",
+      "name": "Muse Glimmer",
+      "category": "code",
+      "price": "free",
+      "description": "Meta Superintelligence Labs 于 2026 年 8 月 10 日开源的 30B 密集 agentic 模型（Apache 2.0），从 Muse Spark 蒸馏而来，专为消费级硬件上的常驻本地智能体打造。4-bit 量化后不到 20GB，可在单张 24GB 显卡或 Mac 上本地运行，原生支持工具调用、多步推理、图文多模态输入与失败自愈重试，兼容 OpenClaw、Hermes Agent 等编排框架，支持 100+ 语言。",
+      "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+      "tags": ["开源", "本地", "智能体", "Meta", "模型"],
+      "features": ["30B 开放权重 Apache 2.0", "4-bit 量化后 <20GB 单卡本地运行", "端到端 agentic 任务完成（SWE-Bench 等）", "可靠工具调用与多步推理", "图文多模态输入与失败自愈重试", "兼容 OpenClaw/Hermes Agent，支持 100+ 语言"],
+      "addedDate": "2026-08-13"
+    },
+    {
+      "id": "warp-agent",
+      "name": "Warp Agent",
+      "category": "code",
+      "price": "freemium",
+      "description": "Warp 推出的独立 AI 编程智能体（Warp Agent），将任意模型以多智能体编排、代码库索引与细粒度权限控制接入，支持从 Warp Terminal 原生调用、SDK/CLI 程序化调用，以及本地到云端无缝交接（handoff）。Warp Terminal 亦已开源，成为面向任意编程智能体的现代 agentic 开发环境。",
+      "url": "https://www.warp.dev",
+      "tags": ["编程", "智能体", "终端", "开源", "本地到云端"],
+      "features": ["多智能体编排与模型路由", "代码库索引与细粒度权限控制", "终端/SDK/CLI 多入口调用", "本地到云端无缝 handoff 交接", "Warp Terminal 已开源", "接入任意主流模型"],
+      "addedDate": "2026-08-13"
     }
   ]
 }
