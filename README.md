@@ -38,7 +38,7 @@
 - **每月**：AI 输出数据报告，用户每周看 10 分钟即可
 
 ## 一次性用户介入事项（清单）
-- [ ] 确认 GitHub 账号（已完成：azri57806-design）
+- [ ] 确认 GitHub 账号（已完成：miqian-nomad）
 - [ ] 注册 Google AdSense（流量起来后）
 - [ ] 注册 AI 工具联盟账号（如 Notion Partner 等）
 - [ ] 可选：购买自定义域名（前 3 个月用 GitHub Pages 默认域名即可）
