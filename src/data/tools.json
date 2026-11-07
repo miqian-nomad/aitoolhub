@@ -597,6 +597,7 @@
       "tags": ["编程", "智能体", "终端", "开源", "本地到云端"],
       "features": ["多智能体编排与模型路由", "代码库索引与细粒度权限控制", "终端/SDK/CLI 多入口调用", "本地到云端无缝 handoff 交接", "Warp Terminal 已开源", "接入任意主流模型"],
       "addedDate": "2026-08-13"
-    }
+    },
+    {"id": "agent-qa", "name": "agent-qa", "category": "code", "price": "free", "description": "vostride 推出的应用测试智能体，以自然语言测试网页、Android 和 iOS，具备持久记忆与经过验证的自我改进能力，支持 CLI 和 MCP。本地软件免费，模型服务费用另计。", "url": "https://vostride.com", "tags": ["应用测试", "持久记忆", "MCP"]}
   ]
 }
